@@ -1,4 +1,4 @@
 # GraphQL
 - GraphQL Server
-- GraphQl Client
+- GraphQL Client
 - Entity Framework Core
